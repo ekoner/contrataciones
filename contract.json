@@ -14,7 +14,7 @@
       "id": "LO-009KDH999-N47-2015",
       "date": "2015-06-23T00:00:00Z",
       "tag": [
-        "Contrato"
+        "contract"
       ],
       "initiationType": "tender",
       "buyer": {
@@ -40,7 +40,7 @@
           "budgetId": "1409JZL0005",
           "budgetDescription": "Transferencias a fideicomisos públicos.",
           "value": {
-            "amount": "TOTAL: $150,000,000.00 2015: $100,000,000.00 2016: $50,000,000.00",
+            "amount": 150000000.00,
             "currency": "MNX"
           },
           "budgetProject": {
@@ -75,10 +75,10 @@
         "id": "830658 ",
         "title": "Desarrollo del proyecto ejecutivo, construcción, equipamiento de mobiliario en   instalaciones complementarias para el campamento del Grupo Aeroportuario   de la Ciudad de México en el sitio del Nuevo Aeropuerto Internacional de la   Ciudad de México.",
         "description": "Desarrollo del Proyecto Ejecutivo, construcción, equipamiento de mobiliario en instalaciones complementarias para el campamento del Grupo Aeroportuario de la Ciudad de México en el sitio del Nuevo Aeropuerto Internacional de la Ciudad de México.",
-        "status": "Adjudicado ",
+        "status": "active",
         "value": {
-          "minAmount": "No aplica",
-          "amount": "TOTAL: $150,000,000.00 2015: $100,000,000.00 2016: $50,000,000.00",
+          "minAmount": null,
+          "amount": 150000000.00,
           "currency": "MNX"
         },
         "procurement": {
@@ -96,13 +96,13 @@
           "details": "El acto de presentación y apertura de proposiciones se llevó a cabo a las 11:00 horas del 27 de julio de 2015, en la sala de juntas ubicada en Av. Insurgentes Sur 2453, piso 2, Torre Murano, Colonia Tizapán San Angel, Delegación Álvaro Obregón, México, D.F., C.P. 01090. El acto fue presidido por el Subdirector de Contrataciones de GACM.  Los documentos técnicos T.3, así como la documentación económica E-4, E-5, E-6, E-7, E-8, E-9, E-10, E-11, E-12, E-13, E-14 y E-15, correspondiente a las 17 proposiciones presentadas."
         },
         "tenderPeriod": {
-          "startDate": "07/27/2015",
+          "startDate": "2015-07-27T00:00:00Z",
           "endDate": null
         },
         "enquiryPeriod": {
           "hasEnquiries": "343",
-          "startDate": "07/02/2015",
-          "endDate": "07/10/2015"
+          "startDate": "2015-07-02T00:00:00Z",
+          "endDate": "2015-07-10T00:00:00Z"
         },
         "socialWitness": {
           "hasSocialWitness": "1",
@@ -110,53 +110,34 @@
           "name": "Óscar Álvarez de la Cuadra Sánchez "
         },
         "elgibilityCriteria": "Capítulo VI de la Convocatoria (ver anexo)",
-        "tenderers": {
-          "numberOfTenderers": "17",
-          "numberOfInhabilitatedTenderers": "0"
-        },
+        "numberOfTenderers": 17,
+        "numberOfInhabilitatedTenderers": 0,
         "notices": {
           "notices": "Proyecto de Convocatoria a la Licitación Pública Nacional Presencial para realizar el desarrollo del proyecto ejecutivo, construcción, equipamiento de, mobiliario e instalaciones complementarias para el campamento del Grupo Aeroportuario De La Ciudad De México (GACM) en el sitio del Nuevo Aeropuerto Internacional de la Ciudad de México (NAICM) publicado en CompraNet el 11 de mayo de 2015",
           "noticesUri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Proyecto_convocatoria.pdf",
           "hearingNotice": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
           "hearingNoticeUri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Convocatoria.pdf"
         },
-        "biddingDocuments": {
-          "biddingDocuments": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
-          "uri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Convocatoria.pdf"
-        },
-        "eligibilityCriteria": {
-          "criteria": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
-          "uri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Requisitos.pdf"
-        },
-        "technicalSpecifications": {
-          "specifications": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
-          "uri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Términos_referencia.pdf"
-        },
-        "evaluationCriteria": {
-          "criteria": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
-          "uri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Criterios_evaluación.pdf"
-        },
-        "clarifications": {
-          "clarifications": "Actas de las juntas de aclaraciones realizadas el 02, 06 y 10 de julio de 2015",
-          "uri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Junta_aclaraciones.pdf"
-        },
-        "shortlistedFirms": {
-          "participants": "No aplica para procedimientos realizados bajo la Ley de Obras Públicas y Servicios Relacionados con las Mismas",
-          "uri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Criterios_Drenaje.pdf"
-        },
-        "conflictOfInterest": {
-          "conflict": "Formato de declaración de no conflicto de interés debidamente requisitado y firmado por cada uno de los servidores públicos que participan en el procedimiento de contratación",
-          "uri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_proveedores_sancionados.pdf"
-        },
         "debartments": "Directorio de proveedores y contratistas sancionados de la SFP",
         "items": [
           {
             "id": "62501001",
             "description": "Construcción aeropista",
-            "classification": "Obra pública",
+            "classification": {
+                "scheme": null,
+                "id": null,
+                "description": "Obra pública",
+                "uri": null
+              },
             "otherClassifications": "No aplica",
-            "quantity": "1",
-            "unit": "1"
+            "quantity": 1,
+            "unit": {
+              "name": "Obra",
+              "value": {
+                "amount": null,
+                "currency": "MXN"
+              }
+            }
           }
         ],
         "milestones": [
@@ -165,26 +146,82 @@
             "name": "No se han recibido estimaciones por parte del contratista",
             "description": "No se han recibido estimaciones por parte del contratista",
             "date": {
-              "startDate": "No se han recibido estimaciones por parte del contratista",
+              "startDate": null,
               "endDate": null
             },
             "modificationDate": {
-              "startDate": "06/29/2015",
+              "startDate": "2015-06-29T00:00:00Z",
               "endDate": null
-            },
-            "status": "No se han recibido estimaciones por parte del contratista"
+            }
           }
         ],
         "documents": [
           {
+            "id": "PO-006E00034-N001-2015",
             "supportDocument": "Acta de visita al sitio de realización de los trabajos publicada en CompraNet el 29 de junio de 2015",
             "modificationDate": {
-              "startDate": "No hubo modificaciones",
+              "startDate": null,
               "endDate": null
             },
             "modification": "No hubo modificaciones",
             "justification": "No hubo modificaciones"
-          }
+          },
+          {
+          "id": "Moved01",
+          "documentType": "biddingDocuments",
+          "title": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
+          "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Convocatoria.pdf",
+          "language": "es",
+          "format": "pdf"
+          },
+          {
+          "id": "Moved02",
+          "documentType": "eligibilityCriteria",
+          "title": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
+          "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Requisitos.pdf",
+          "language": "es",
+          "format": "pdf"
+          },
+          {
+          "id": "Moved03",
+          "documentType": "technicalSpecifications",
+          "title": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
+          "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Términos_referencia.pdf",
+          "language": "es",
+          "format": "pdf"
+          },
+          {
+          "id": "Moved04",
+          "documentType": "evaluationCriteria",
+          "title":  "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
+          "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Criterios_evaluación.pdf",
+          "language": "es",
+          "format": "pdf"
+        },
+        {
+          "id": "Moved05",
+          "documentType": "clarifications",
+          "title":  "Actas de las juntas de aclaraciones realizadas el 02, 06 y 10 de julio de 2015",
+          "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Junta_aclaraciones.pdf",
+          "language": "es",
+          "format": "pdf"
+        },
+        {
+          "id": "Moved06",
+          "documentType": "shortlistedFirms",
+          "title": "No aplica para procedimientos realizados bajo la Ley de Obras Públicas y Servicios Relacionados con las Mismas",
+          "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Criterios_Drenaje.pdf",
+          "language": "es",
+          "format": "pdf"
+        },
+        {
+          "id": "Moved07",
+          "documentType": "conflictOfInterest",
+          "title": "Formato de declaración de no conflicto de interés debidamente requisitado y firmado por cada uno de los servidores públicos que participan en el procedimiento de contratación",
+          "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_proveedores_sancionados.pdf",
+          "language": "es",
+          "format": "pdf"
+        }
         ]
       },
       "awards": [
@@ -192,7 +229,7 @@
           "id": "LO-009KDH999- N47-2015",
           "title": "Acta de emisión de fallo ",
           "description": "Con fundamento en lo dispuesto en el artículo 39, fracción III de la LOPSRM, se adjudica el contrato al consorcio integrado por Acciones Grupo Oro, S.A. de C.V. y Constructora Grupo de Oro, S.A. de C.V. , por un importe de $112,046,320.57, monto sin considerar el IVA, por resultar se la propuesta que al ser evaluada técnica y ecómicamente, obtuvo el puntaje más alto acorde al mecanismo de evaluación previsto en la convocatoria. ",
-          "status": "Adjudicado ",
+          "status": "active",
           "date": "2015-08-28T00:00:00Z",
           "value": {
             "amount": 112046320.57,
@@ -280,7 +317,7 @@
           "awardID": "LO-009KDH999- N47-2015",
           "title": "Desarrollo del Proyecto Ejecutivo, construcción, equipamiento de mobiliario en instalaciones complementarias para el campamento del Grupo Aeroportuario de la Ciudad de México en el sitio del Nuevo Aeropuerto Internacional de la Ciudad de México.",
           "description": null,
-          "status": "Activo",
+          "status": "active",
           "period": {
             "startDate": "2015-09-10T00:00:00Z",
             "endDate": "2016-04-06T00:00:00Z"
