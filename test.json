@@ -175,8 +175,20 @@
           {
             "id": "62501001",
             "description": "Construcción aeropista",
-            "classification": "Obra pública",
-            "otherClassifications": "No aplica",
+              "classification": {
+                "scheme": null,
+                "id": null,
+                "description": "Obra pública",
+                "uri": null
+              },
+              "additionalClassifications": [
+                {
+                  "scheme": null,
+                  "id": null,
+                  "description": null,
+                  "uri": null
+                }
+              ],
             "quantity": 1,
             "unit": "1"
           }
